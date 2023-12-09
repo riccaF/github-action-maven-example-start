@@ -3,8 +3,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 
-public class TestDeepThought {
-    public TestDeepThought() {
+public class TestDeep {
+    public TestDeep() {
 
     }
         @Test
